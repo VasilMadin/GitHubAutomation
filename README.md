@@ -4,4 +4,4 @@ I got you! :smile: The script simply asks you for the name of your repo, do you 
 
 
 ## How to install and use the script
- First open Visual Studio Code and add your username and password for GitHub :computer: press **Ctrl + S** to save the file then simply run `pip install -r requirements.txt` And you are done! :sunglasses:
+ First open Visual Studio Code and add your username and password for GitHub :computer: press **Ctrl + S** to save the file then simply run `pip install -r requirements.txt` then run the script `python automate.py` And you are done! :sunglasses: 
